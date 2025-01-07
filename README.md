@@ -1,1 +1,2 @@
 # Cineticket_Continuation_PythonProject
+Continuation of the Cineticket_PythonProject repository.
